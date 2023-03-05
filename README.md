@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **VueTube**
 
-- 👨‍💻 All of my projects are available at [Github or private](Github or private)
+- 👨‍💻 All of my projects are available at **Github or Privately**
 
 - 📝 I regularly write articles on [ferivoq.me/blog](ferivoq.me/blog)
 
