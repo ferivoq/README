@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Kotlin and Python**
 
+- 🌐 I’m currently translating  **Open Source Projects**
+
 - 👯 I’m looking to collaborate on **VueTube**
 
 - 👨‍💻 All of my projects are available at [Github or private](Github or private)
