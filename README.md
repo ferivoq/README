@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at **Github or Privately**
 
-- 📝 I regularly write articles on [ferivoq.me/blog](ferivoq.me/blog)
+- 📝 I regularly write articles on [ferivoq.me/blog](https://ferivoq.me/blog)
 
 - 💬 Ask me about **Svelte or Html/CSS**
 
 - 📫 How to reach me **@ferivoq (discord)**
 
-- 📄 Know about my experiences [ferivoq.me](ferivoq.me)
+- 📄 Know about my experiences [ferivoq.me](https://ferivoq.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
