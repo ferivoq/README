@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Svelte or Html/CSS**
 
-- 📫 How to reach me **<ferivoq/>#9999**
+- 📫 How to reach me **@ferivoq (discord)**
 
 - 📄 Know about my experiences [ferivoq.me](ferivoq.me)
 
